@@ -4,7 +4,7 @@
 👩‍💻 I love **mentoring, making tech more inclusive, and creating cool projects!**  
 
 ## 🚀 Tech Stack
-🔹 **Languages**: Python, C, C++, JavaScript, HTML, CSS 
+🔹 **Languages**: Python, C, C++, JavaScript, HTML, CSS, Structured Text 
 🔹 **I'm Currently Learning**: Assembly
 🔹 **Hardware**: Microcontrollers, Arduino, Raspberry Pi  
 🔹 **Tools**: Git, VS Code, TinkerCAD, Fusion 360  
@@ -15,4 +15,4 @@
 
 ## ✨ Fun Fact: I love to crochet 
 
-## ✨ How to reach me: https://www.linkedin.com/in/modupe-awojuyigbe-9937a7295/
+## ✨ How to reach me: https://www.linkedin.com/in/modupe-awojuyigbe/
